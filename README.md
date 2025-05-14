@@ -50,3 +50,6 @@ Desenvolver um modelo preditivo que:
 | Modelagem Preditiva                | 21/05 a 25/05    |
 | Validação e Interpretação          | 26/05 a 28/05    |
 | Visualização e Documentação Final  | 29/05 a 03/06    |
+
+## Dataset
+O dataset utilizado neste projeto está disponível [nesta pasta](./data/dataset_inadimplencia_realista_MPE_ptBR.csv).
